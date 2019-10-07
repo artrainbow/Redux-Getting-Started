@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-/node-modules
+node_modules/
+simple-react-redux-counter/node_modules
