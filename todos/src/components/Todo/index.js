@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 export default class Todo extends Component {
     render(){
         const {
-            name
+            name,
         } = this.props;
 
         return (
